@@ -1,0 +1,9 @@
+C:\Users\knife\OneDrive\Documents\GitHub\DawnOS\DawnOS\DawnOS\obj\Debug\netcoreapp2.0\cosmos\DawnOS.csprojAssemblyReference.cache
+C:\Users\knife\OneDrive\Documents\GitHub\DawnOS\DawnOS\DawnOS\obj\Debug\netcoreapp2.0\cosmos\DawnOS.AssemblyInfoInputs.cache
+C:\Users\knife\OneDrive\Documents\GitHub\DawnOS\DawnOS\DawnOS\obj\Debug\netcoreapp2.0\cosmos\DawnOS.AssemblyInfo.cs
+C:\Users\knife\OneDrive\Documents\GitHub\DawnOS\DawnOS\DawnOS\obj\Debug\netcoreapp2.0\cosmos\DawnOS.csproj.CoreCompileInputs.cache
+C:\Users\knife\OneDrive\Documents\GitHub\DawnOS\DawnOS\DawnOS\bin\Debug\netcoreapp2.0\cosmos\DawnOS.deps.json
+C:\Users\knife\OneDrive\Documents\GitHub\DawnOS\DawnOS\DawnOS\bin\Debug\netcoreapp2.0\cosmos\DawnOS.dll
+C:\Users\knife\OneDrive\Documents\GitHub\DawnOS\DawnOS\DawnOS\bin\Debug\netcoreapp2.0\cosmos\DawnOS.pdb
+C:\Users\knife\OneDrive\Documents\GitHub\DawnOS\DawnOS\DawnOS\obj\Debug\netcoreapp2.0\cosmos\DawnOS.dll
+C:\Users\knife\OneDrive\Documents\GitHub\DawnOS\DawnOS\DawnOS\obj\Debug\netcoreapp2.0\cosmos\DawnOS.pdb
